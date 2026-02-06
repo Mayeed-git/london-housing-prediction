@@ -125,10 +125,6 @@ london-housing-prediction/
 
 The model achieves excellent performance with an R² score of 0.9478, indicating that it can explain 94.78% of the variance in London housing prices.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is open source and available under the MIT License.
